@@ -29,3 +29,6 @@ int main() {
 
     return 0;
 }
+output:
+Input 145 → 
+Output: 145 is a Strong Number
