@@ -36,3 +36,7 @@ int main() {
 
     return 0;
 }
+
+output:
+Input 5 elements: 10 25 8 20 15 
+Output: Second largest element = 20
